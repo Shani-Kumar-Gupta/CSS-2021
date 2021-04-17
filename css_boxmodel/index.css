@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#box {
+    display: grid;
+    place-items: center;
+    background-color: tomato;
+    font-size: 4rem;
+    padding: 50px;
+    border: 20px solid black;
+    margin: 50px;
+}
+
+#box1 {
+    display: grid;
+    place-items: center;
+    font-size: 4rem;
+    background: darkorange;
+    padding: 80px;
+    border: 20px solid green;
+    margin: 80px;
+}
